@@ -1,0 +1,14 @@
+.container-fluid{
+    background-image: url(Images/Road.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+.btns{
+    padding-top: 100px;
+    padding-bottom: 300px;
+}
+.carImg img{
+    width: 300px;
+    margin-bottom: 20px;
+}
